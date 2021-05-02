@@ -1,5 +1,6 @@
 * chop avocados
-* chop onionr
+* chop onion
+* chop jalapenos
 * squeeze lime
 * add salt
 * add pepper
